@@ -1,6 +1,7 @@
 # Extract_Data_from_Txt_Table
 
-From txt file extracting data to store it in CSV.
+### From text file extracting data to find the needed 'India' data and store it in CSV.
 
-Using that data from Txt to find all customers related to India and add to Table_India(csv).
+Using the extracted data from text file to find all customers related to India and create a seperate table.
+Save it to Table_India(csv).
 
